@@ -5,7 +5,7 @@ Lvis✨️, [7/25/2025 12:52 PM]
 </p>
 
 <!-- ========================== NAME & HEADLINE ========================== -->
-<h1 align="center">👋 Hi there, I'm Boateng Elvis</h1>
+<h1 align="center">👋 Hi there, I'm Aaron Tetteh</h1>
 <h3 align="center">⚡️ Software Engineer | Innovator | Lifelong Learner</h3>
 
 <!-- ========================== TYPING ANIMATION ========================== -->
